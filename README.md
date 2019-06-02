@@ -1,2 +1,3 @@
 # Simple-Calculator
-Simple calculation
+Perform simple calculation addition,subtraction,division and multiplication.
+
